@@ -26,15 +26,15 @@ Comment
 
 ## Funcionalidades
 
-[x] Deve ser possível criar um post, passando: author (\_id), content
-[x] Deve ser possível dar like em um post
-[x] Deve ser possível buscar todos os posts de um author
-[x] Deve ser possível buscar todos os posts
-[x] Deve ser possível deletar um post
+- [x] Deve ser possível criar um post, passando: author (\_id), content
+- [x] Deve ser possível dar like em um post
+- [x] Deve ser possível buscar todos os posts de um author
+- [x] Deve ser possível buscar todos os posts
+- [x] Deve ser possível deletar um post
 
-[x] Deve ser possível criar um usuário, passando: fullname, nickname e email
-[x] Deve ser possível listar todos usuários e seus posts
+- [x] Deve ser possível criar um usuário, passando: fullname, nickname e email
+- [x] Deve ser possível listar todos usuários e seus posts
 
-[ ] Deve ser possível criar um comment, passando: post (\_id), content
-[ ] Deve ser possível buscar todos os comments de um post
-[ ] Deve ser possível deletar um comment
+- [ ] Deve ser possível criar um comment, passando: post (\_id), content
+- [ ] Deve ser possível buscar todos os comments de um post
+- [ ] Deve ser possível deletar um comment
